@@ -1,0 +1,25 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "This project contains practical implementations of the core Functional Programming concepts in JavaScript. Each topic is implemented in a separate file to demonstrate the concepts clearly and independently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilpandey28/functional-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nikhilpandey28/functional-programming/issues"
+  },
+  "homepage": "https://github.com/nikhilpandey28/functional-programming#readme",
+  "dependencies": {
+    "lodash": "^4.18.1",
+    "ramda": "^0.32.0"
+  }
+}
